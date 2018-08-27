@@ -1,0 +1,12 @@
+/* CSS Variables */
+:root{
+    --theme-primary:#ababab;
+    --theme-secondary:#0f0000;
+    --text-color:#fff;
+}
+
+/* Main CSS */
+.addBtn{
+    background:var(--theme-secondary);
+    color: var(--text-color);
+}
